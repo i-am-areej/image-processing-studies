@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+.DS_Store
+.venv/
+# Keep results/ committed: the figures and tables are the point of the repo.

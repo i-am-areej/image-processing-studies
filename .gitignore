@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+.venv/
+venv/
+.ipynb_checkpoints/
+# results/ is deliberately committed: the figures and tables are the point of the repo.
